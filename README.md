@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science and Cloud
 - 📫 How to reach me : gabriella.ribeiro.colletto@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love doing embroidery and DIY!
+- ⚡ Fun fact: i love playing Pokemón TCG !
 
 <!---
 gingerdev15/gingerdev15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
