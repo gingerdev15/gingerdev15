@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,33,20&height=180&section=header&text=Gabriella%20Ribeiro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Python%20|%20BI%20|%20Data%20|%20AI%20Agents&descSize=16&descAlignY=55" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,55,20&height=180&section=header&text=Gabriella%20Ribeiro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20Python%20|%20BI%20|%20Data%20|%20AI%20Agents&descSize=16&descAlignY=55" width="100%" alt="Header Banner" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/gabriella-ribeiro-ti">
