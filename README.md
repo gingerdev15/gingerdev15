@@ -132,7 +132,7 @@ flowchart LR
 <h4>Business Strategy Performance — Data & Automation</h4>
 <ul>
 <li>🚀 Automation workflows saving <strong>200+ man-hours/month</strong></li>
-<li>💻 Data BI (<strong>5 distributors</strong>)</li>
+<li>💻 Data BI (<strong>3 Agents</strong>)</li>
 <li>🔗 Enterprise database and Microsoft API integrations</li>
 <li>📋 Azure DevOps with Scrum/Kanban in 3-person team</li>
 </ul>
