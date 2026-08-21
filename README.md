@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Quality** and **BI Data Analyst** from **Brazil**, with ** years of hands-on experience** in Quality, Projects, ERP, Python and data manipulation. Currently working in the **Business Strategy**, where I design and implement automation solutions, agile methodologies and full-stack applications that drive measurable and strategy business impact.
+I am a **Quality** and **BI Data Analyst** from **Brazil**, with **5 years of hands-on experience** in Quality, Projects, ERP, Python and data manipulation. Currently working in the **Business Strategy**, where I design and implement automation solutions, agile methodologies and full-stack applications that drive measurable and strategy business impact.
 
 **Professional Achievements:**
 
